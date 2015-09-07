@@ -22,6 +22,6 @@ public class AppTest extends FluentTest {
   @Rule
   public DataBaseRule database = new DataBaseRule();
 
-  @Test
+  // @Test
   // firsttesthere!
 }
